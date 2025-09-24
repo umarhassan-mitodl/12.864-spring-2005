@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "29d7dc01-52d9-d4cb-9dd3-f360ecf843bc",
+  "instructors": {
+    "content": [
+      "1aee9573-c646-7512-7f8a-11b72f04879e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "14c7bc81-35c9-34c7-e051-f0f505bce5f2",
+    "website": "12-864-inference-from-data-and-models-spring-2005"
+  },
+  "course_title": "Inference from Data and Models",
+  "course_description": "This course covers the fundamental methods used for exploring the information content of observations related to kinematical and dynamical models.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.864",
+  "course_image_thumbnail": {
+    "content": "b5e0555a-2b46-f292-2149-b52fd945244b",
+    "website": "12-864-inference-from-data-and-models-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Programming Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "1944719c-8dd7-4bd9-b08a-01b0227210d6",
+  "site_short_id": "12.864-spring-2005",
+  "site_url_path": "courses/12-864-inference-from-data-and-models-spring-2005",
+  "title": "Course Metadata"
+}

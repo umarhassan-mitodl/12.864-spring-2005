@@ -4,6 +4,8 @@ description: This resource contains the appendix for chapter 2- Basics Machinary
 file: /courses/12-864-inference-from-data-and-models-spring-2005/408e913c2d356ccc2c6df75bc7a7fe86_appendix1_2_10.pdf
 file_size: 124512
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

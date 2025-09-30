@@ -5,6 +5,8 @@ description: This file contains notes on the sampling, one dimensional interpola
 file: /courses/12-864-inference-from-data-and-models-spring-2005/623181828d7cfe74a75a52670afbe1d6_sampling_3_2.pdf
 file_size: 536266
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

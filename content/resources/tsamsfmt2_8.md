@@ -5,6 +5,8 @@ description: This resource includes debate in climate and other studies concerns
 file: /courses/12-864-inference-from-data-and-models-spring-2005/45e9039315a662c4807361d729b58899_tsamsfmt2_8.pdf
 file_size: 147698
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

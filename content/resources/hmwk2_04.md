@@ -5,6 +5,8 @@ description: This resource contains 3 problems based on vectors, tracer balance 
 file: /courses/12-864-inference-from-data-and-models-spring-2005/409df6a1ff4c848e10077686771dabba_hmwk2_04.pdf
 file_size: 56315
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

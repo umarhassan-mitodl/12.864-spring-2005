@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-864-inference-from-data-and-models-spring-2005/06c65ff8ba8c27946bfd0dfed68a100d_eigenvector_3_1.pdf
 file_size: 159862
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

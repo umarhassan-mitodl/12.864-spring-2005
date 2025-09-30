@@ -7,6 +7,8 @@ description: 'This resource incldues the followig topics:
 file: /courses/12-864-inference-from-data-and-models-spring-2005/56b0156f8d21c7f5eb41326c9903f812_min_variance_2_7.pdf
 file_size: 305096
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

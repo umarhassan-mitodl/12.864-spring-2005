@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section contains an overview of the course, texbook and
   readings, homework and projects, prerequisites, and grading criteria.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +37,7 @@ Texbook and Readings
 
 Theme 1 is covered by:
 
-Wunsch, Carl.  {{% resource_link "e98cb165-2680-492e-a926-11b65fa0f6a8" "_Discrete Inverse and State Estimation Problems: With Geophysical Fluid Applications_" %}}. Cambridge, UK: Cambridge University Press, 2006.  ISBN: 9780521854245. This material will be distributed as the working draft of a book. No knowledge of fluids is required.
+Wunsch, Carl.  [_Discrete Inverse and State Estimation Problems: With Geophysical Fluid Applications_](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521854245). Cambridge, UK: Cambridge University Press, 2006.  ISBN: 9780521854245. This material will be distributed as the working draft of a book. No knowledge of fluids is required.
 
 An earlier edition of the book, with physical oceanographic applications, is:  
 Wunsch, Carl. _The Ocean Circulation Inverse Problem_. Cambridge, UK: Cambridge University Press, 1996. ISBN: 9780521480901. But there is no need to have it.

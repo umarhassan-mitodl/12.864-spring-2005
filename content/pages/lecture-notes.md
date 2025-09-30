@@ -4,6 +4,8 @@ description: The lecture notes for this course are from two different sources. T
   first list contains a draft of Prof. Wunsch's forthcoming book Discrete Inverse
   and State Estimation Problems (working title). The second list contains Prof. Wunsch's
   primer on Time Series Analysis.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

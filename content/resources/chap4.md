@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-864-inference-from-data-and-models-spring-2005/f1d84d3a8e91027373ebba5a26255a03_chap4.pdf
 file_size: 1342863
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

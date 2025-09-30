@@ -5,6 +5,8 @@ description: This resource includes the process of using The Blackman-Tukey meth
 file: /courses/12-864-inference-from-data-and-models-spring-2005/0488c0cbea8d254d48fa5daceb20a4c2_tsamsfmt_1_12.pdf
 file_size: 182386
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

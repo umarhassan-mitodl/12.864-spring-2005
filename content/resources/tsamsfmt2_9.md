@@ -5,6 +5,8 @@ description: This resource includes the explanation of EOFs (empirical orthogona
 file: /courses/12-864-inference-from-data-and-models-spring-2005/c173bc1bf461093529c29973b4735d5d_tsamsfmt2_9.pdf
 file_size: 195994
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

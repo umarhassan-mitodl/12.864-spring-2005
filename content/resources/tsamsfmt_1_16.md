@@ -6,6 +6,8 @@ description: This resource incldues the use of Spectograms to test the hypothesi
 file: /courses/12-864-inference-from-data-and-models-spring-2005/6f451c98b122ab3b643cb1aa084c62be_tsamsfmt_1_16.pdf
 file_size: 91328
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This resource has been primarily devoted to the principles underlyi
 file: /courses/12-864-inference-from-data-and-models-spring-2005/51d2b63d2374b28797fbb77f935e987c_approximate_5_3.pdf
 file_size: 191515
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains 6 problems based on eigenvector/eigenvalue, 
 file: /courses/12-864-inference-from-data-and-models-spring-2005/ff06aad319827314b6a07929eb23a35f_hmwk3_03.pdf
 file_size: 77101
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

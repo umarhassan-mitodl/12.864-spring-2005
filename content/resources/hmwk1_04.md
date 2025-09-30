@@ -4,6 +4,8 @@ description: This resource conatins 3 problems based on differential equations.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/103719a46f6bcb02d6aa3512adf8cfc0_hmwk1_04.pdf
 file_size: 62248
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

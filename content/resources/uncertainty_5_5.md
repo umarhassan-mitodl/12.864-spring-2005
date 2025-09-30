@@ -5,6 +5,8 @@ description: This resource includes the advantages and disadvantages of solving 
 file: /courses/12-864-inference-from-data-and-models-spring-2005/0bb403b68c438cd944c23ab8495383ef_uncertainty_5_5.pdf
 file_size: 42910
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains 3 problems based on vecots, matrix-vector le
 file: /courses/12-864-inference-from-data-and-models-spring-2005/d28f931b8031bb621767809163f00d1f_hmwk3.pdf
 file_size: 80238
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

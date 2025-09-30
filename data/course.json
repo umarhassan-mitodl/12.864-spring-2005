@@ -40,6 +40,7 @@
     "website": "12-864-inference-from-data-and-models-spring-2005"
   },
   "course_title": "Inference from Data and Models",
+  "hide_download": true,
   "course_description": "This course covers the fundamental methods used for exploring the information content of observations related to kinematical and dynamical models.\n",
   "department_numbers": [
     "12"
@@ -50,6 +51,7 @@
     "content": "b5e0555a-2b46-f292-2149-b52fd945244b",
     "website": "12-864-inference-from-data-and-models-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Programming Assignments",

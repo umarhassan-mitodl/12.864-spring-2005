@@ -5,6 +5,8 @@ description: 'This file contains notes on duality and simplification: The steady
 file: /courses/12-864-inference-from-data-and-models-spring-2005/2cfc258d4cdf5adc2bacd18f01b718ca_duality_4_5.pdf
 file_size: 152276
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

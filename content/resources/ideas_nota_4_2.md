@@ -5,6 +5,8 @@ description: This file contains notes for basic ideas and notation, models and h
 file: /courses/12-864-inference-from-data-and-models-spring-2005/1d5e19f982ac8a72b5f713e9afe2a3ee_ideas_nota_4_2.pdf
 file_size: 330382
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

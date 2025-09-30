@@ -5,6 +5,8 @@ description: This file contains notes on total least squares, method of total in
 file: /courses/12-864-inference-from-data-and-models-spring-2005/0c129cf368b953389c4ef932799c2287_nonlinear_3_7.pdf
 file_size: 281520
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

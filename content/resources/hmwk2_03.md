@@ -5,6 +5,8 @@ description: This resource contains 3 problems based on vectors, eigenvalue/eige
 file: /courses/12-864-inference-from-data-and-models-spring-2005/a6257f01f2ecd8bb788a1282190ca5d4_hmwk2_03.pdf
 file_size: 42500
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

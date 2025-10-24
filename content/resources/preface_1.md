@@ -5,8 +5,6 @@ description: This resource includes the preface of 1 part and a large extent the
 file: /courses/12-864-inference-from-data-and-models-spring-2005/4be86c9a0221e219db00f265aa182aaf_preface_1.pdf
 file_size: 52777
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

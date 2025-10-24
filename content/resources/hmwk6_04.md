@@ -5,8 +5,6 @@ description: This resource contains 4 problems based on discrete Fourier series,
 file: /courses/12-864-inference-from-data-and-models-spring-2005/9c50916c09c4991b699eb3cd716efab8_hmwk6_04.pdf
 file_size: 65628
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

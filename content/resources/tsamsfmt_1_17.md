@@ -4,8 +4,6 @@ description: This resource includes the Effects of Timing Errors in problems.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/97f0bcb549f2da46873d5a8d7d84e335_tsamsfmt_1_17.pdf
 file_size: 83693
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

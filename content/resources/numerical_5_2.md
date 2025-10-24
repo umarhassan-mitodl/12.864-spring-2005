@@ -5,8 +5,6 @@ description: 'This resource includes the following topics: Meteorological Assimi
 file: /courses/12-864-inference-from-data-and-models-spring-2005/295feb1641d2c5a6d39574b7a8ba6fe1_numerical_5_2.pdf
 file_size: 134021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

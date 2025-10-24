@@ -6,8 +6,6 @@ description: This file contains notes for the time domain methods, geometric int
 file: /courses/12-864-inference-from-data-and-models-spring-2005/b8825f98aeeb41397cc17e3635ab608d_tsamsfmt_chap2.pdf
 file_size: 390987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

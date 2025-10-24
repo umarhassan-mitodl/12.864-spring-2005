@@ -6,8 +6,6 @@ description: 'This resource includes the following topics: Ensemble Methods and 
 file: /courses/12-864-inference-from-data-and-models-spring-2005/48c1b106fcf3f6eba94c1c08b7ece0c6_chap5.pdf
 file_size: 351505
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

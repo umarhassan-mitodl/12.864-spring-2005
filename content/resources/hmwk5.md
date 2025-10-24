@@ -5,8 +5,6 @@ description: This resource contains 5 problems based on Fourier transform, pseud
 file: /courses/12-864-inference-from-data-and-models-spring-2005/290bc734a99bda41b1884911f176cfd4_hmwk5.pdf
 file_size: 63561
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

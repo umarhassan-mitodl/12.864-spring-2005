@@ -4,8 +4,6 @@ description: This file contains notes on model and data consistency, and estimat
 file: /courses/12-864-inference-from-data-and-models-spring-2005/088609197070bd62a97f5017e68f8195_estimation_4_3.pdf
 file_size: 649164
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

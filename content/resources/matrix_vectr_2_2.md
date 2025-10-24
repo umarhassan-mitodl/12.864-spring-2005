@@ -5,8 +5,6 @@ description: This resource includes a brief results of equations solved using ma
 file: /courses/12-864-inference-from-data-and-models-spring-2005/0750d70d6abbb4ca275d91b9531d6bb8_matrix_vectr_2_2.pdf
 file_size: 295193
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

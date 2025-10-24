@@ -5,8 +5,6 @@ description: 'This resource includes the following topics: Basic Probability, Ch
 file: /courses/12-864-inference-from-data-and-models-spring-2005/06ceffa28d09ca8c0df1b53cb2e1d03f_tsamsfmt_1_10.pdf
 file_size: 462568
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

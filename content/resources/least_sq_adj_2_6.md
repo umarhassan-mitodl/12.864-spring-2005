@@ -6,8 +6,6 @@ description: 'This resource contains the following topics:
 file: /courses/12-864-inference-from-data-and-models-spring-2005/f25eeac417a090ddac77dd0400ab2bf2_least_sq_adj_2_6.pdf
 file_size: 303042
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

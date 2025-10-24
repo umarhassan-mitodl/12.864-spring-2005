@@ -5,8 +5,6 @@ description: This resource contains 5 problems based on vectors, lagrange multip
 file: /courses/12-864-inference-from-data-and-models-spring-2005/62c7ec762490b0c32ceec3ad812aa547_hmwk2.pdf
 file_size: 68933
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

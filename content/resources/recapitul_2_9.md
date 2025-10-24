@@ -5,8 +5,6 @@ description: This resource includes some summary of what has been accomplished m
 file: /courses/12-864-inference-from-data-and-models-spring-2005/24c7c74c953f02c5806bb35d22a5be74_recapitul_2_9.pdf
 file_size: 131957
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

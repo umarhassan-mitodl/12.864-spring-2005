@@ -4,8 +4,6 @@ description: This file contains notes on nonlinear models using matrices.
 file: /courses/12-864-inference-from-data-and-models-spring-2005/a971bc717bd407eca163daf7e6ffe64f_nonlinear_4_7.pdf
 file_size: 293237
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

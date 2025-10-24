@@ -6,8 +6,6 @@ description: This resource includes many of the useful simplifications for white
 file: /courses/12-864-inference-from-data-and-models-spring-2005/9b403b253945ed9e8e0cd9754a6350db_tsamsfmt_1_13.pdf
 file_size: 299204
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource explains geometric interpretation of the normal equat
 file: /courses/12-864-inference-from-data-and-models-spring-2005/9fee0b706c82510058b4423658bad680_tsamsfmt2_2.pdf
 file_size: 137648
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

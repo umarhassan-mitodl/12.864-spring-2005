@@ -5,8 +5,6 @@ description: This file contains the notes for the topic inequality constraints a
 file: /courses/12-864-inference-from-data-and-models-spring-2005/f442ec93cd33758858f8d6d9ac8d1e5e_inequality_3_3.pdf
 file_size: 115721
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

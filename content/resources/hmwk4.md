@@ -5,8 +5,6 @@ description: This resource contains 4 problems based on Kalman filter, RTS algor
 file: /courses/12-864-inference-from-data-and-models-spring-2005/f6e01bccea82dd6186753fb9ce91bea5_hmwk4.pdf
 file_size: 58271
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

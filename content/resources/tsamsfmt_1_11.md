@@ -5,8 +5,6 @@ description: This resource includes the process of defining the spectral estimat
 file: /courses/12-864-inference-from-data-and-models-spring-2005/f524f8cf246fda31f1f0deb5909998c9_tsamsfmt_1_11.pdf
 file_size: 213152
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

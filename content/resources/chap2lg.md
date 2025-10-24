@@ -6,8 +6,6 @@ description: The purpose of this chapter is to record a number of results which 
 file: /courses/12-864-inference-from-data-and-models-spring-2005/7b21edbfc62016cc3575242c344ea9a4_chap2lg.pdf
 file_size: 2012875
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

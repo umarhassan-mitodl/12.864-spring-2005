@@ -35,7 +35,7 @@ Texbook and Readings
 
 Theme 1 is covered by:
 
-Wunsch, Carl.  [_Discrete Inverse and State Estimation Problems: With Geophysical Fluid Applications_](http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521854245). Cambridge, UK: Cambridge University Press, 2006.  ISBN: 9780521854245. This material will be distributed as the working draft of a book. No knowledge of fluids is required.
+Wunsch, Carl.  {{% resource_link "54478baf-22fa-40a3-b609-57d5c42e8cc9" "_Discrete Inverse and State Estimation Problems: With Geophysical Fluid Applications_" %}}. Cambridge, UK: Cambridge University Press, 2006.  ISBN: 9780521854245. This material will be distributed as the working draft of a book. No knowledge of fluids is required.
 
 An earlier edition of the book, with physical oceanographic applications, is:  
 Wunsch, Carl. _The Ocean Circulation Inverse Problem_. Cambridge, UK: Cambridge University Press, 1996. ISBN: 9780521480901. But there is no need to have it.
